@@ -1,6 +1,6 @@
-### **AraRus: Revolutionizing Arabic Learning Online** 🌍📚  
+# **AraRus: Revolutionizing Arabic Learning Online** 🌍📚  
 
-#### **✨ The Vision**  
+## **✨ The Vision**  
 AraRus was born to bridge the gap in **online Arabic education**, offering live and on-demand lessons tailored to learners worldwide. Our mission? To make mastering Arabic **interactive, flexible, and certified**—all from one platform.  
 
 ![Ararus home page 1200 675](https://github.com/user-attachments/assets/eb0a972a-8211-4839-b21c-33c9bcf97318)
@@ -9,7 +9,7 @@ AraRus was born to bridge the gap in **online Arabic education**, offering live 
 
 ---
 
-### **🚀 What Makes AraRus Unique?**  
+## **🚀 What Makes AraRus Unique?**  
 1. **Live & Learn** 🎥  
    - Real-time classes with expert teachers for instant feedback.  
    - Recorded sessions to learn anytime, anywhere.  
@@ -26,7 +26,7 @@ AraRus was born to bridge the gap in **online Arabic education**, offering live 
 
 ---
 
-### **🔥 Key Wins**  
+## **🔥 Key Wins**  
 ✅ **Rapid Growth**: Scaled quickly with **targeted digital marketing** (SEO, blogs, ads).  
 ✅ **Rave Reviews**: 90%+ student satisfaction, driving word-of-mouth referrals.  
 ✅ **Elite Educators**: Partnered with **top-tier Arabic instructors** for premium content.  
@@ -34,7 +34,7 @@ AraRus was born to bridge the gap in **online Arabic education**, offering live 
 
 ---
 
-### **🛠️ Skills I Mastered**  
+## **🛠️ Skills I Mastered**  
 - **Leadership**: Managed cross-functional teams (teachers, devs, marketers).  
 - **Digital Marketing**: Ran campaigns that **tripled user sign-ups**.  
 - **Tech Savvy**: Oversaw UX/UI design and SaaS integrations.  
@@ -42,7 +42,7 @@ AraRus was born to bridge the gap in **online Arabic education**, offering live 
 
 ---
 
-### **💡 Lessons Learned**  
+## **💡 Lessons Learned**  
 🚧 **Challenges Faced**:  
 - Fierce competition → **Solved with unique free resources and certs**.  
 - Teacher vetting → **Built a strict hiring framework**.  
@@ -50,7 +50,7 @@ AraRus was born to bridge the gap in **online Arabic education**, offering live 
 
 ---
 
-### **🌟 Why This Project**  
+## **🌟 Why This Project**  
 AraRus isn’t just a platform—it’s a **gateway to cultural connection**. By blending tech and education, we’re empowering learners to speak Arabic confidently, whether for work, travel, or heritage.  
 
 **#EdTech #LearnArabic #DigitalTransformation #StartupLife** 🚀  
